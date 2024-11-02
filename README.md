@@ -1,2 +1,8 @@
 # Chatbot
-Developing a chatbot to address and diagnose the error code from the OBD II device in the car.
+
+Developed a personal chatbot that answers everything about me! 
+
+Still feeding in new data to keep it updated. 
+
+
+
